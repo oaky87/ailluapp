@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "servidor para la app de grocery",
    "engines": {
-    "node": "9.0.0-pre"
+    "node": "9.0.0-pre",
+    "npm": "5.4.1"
   },
   "main": "index.js",
   "scripts": {
