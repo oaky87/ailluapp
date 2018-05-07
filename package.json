@@ -1,11 +1,10 @@
 {
-
   "name": "server_donia",
   "version": "1.0.0",
-   "engines": {
-    "node": "9.0.0"
-  }
   "description": "servidor para la app de grocery",
+   "engines": {
+    "node": "8.9.4"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -18,3 +17,6 @@
     "moment": "2.22.1"
   }
 }
+
+
+
