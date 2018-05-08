@@ -4,7 +4,6 @@
   "description": "servidor para la app de grocery",
    "engines": {
     "node": "9.0.0",
-    "npm": "5.4.1"
   },
   "main": "index.js",
   "scripts": {
